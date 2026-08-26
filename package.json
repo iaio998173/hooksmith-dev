@@ -1,0 +1,8 @@
+{
+  "name": "hooksmith-dev",
+  "version": "0.2.3",
+  "description": "A handful of React hooks I keep copy-pasting between projects",
+  "main": "src/index.js",
+  "scripts": { "test": "echo \"no tests yet\" && exit 0" },
+  "peerDependencies": { "react": ">=17" }
+}
